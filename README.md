@@ -1,4 +1,4 @@
-## Data Visualization and Storytelling
+## Data Visualization and Storytelling (~ 51k rows)
 
 ## Dataset:
 SuperStoreOrders.csv
